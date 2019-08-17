@@ -1,0 +1,7 @@
+numpy
+torch
+torchvision
+matplotlib==2.1.2
+sklearn
+pandas
+jupyter-notebook
